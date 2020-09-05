@@ -1,9 +1,9 @@
-You build this pipeline, you need various components.
+To build this pipeline, you need the following
 
 # Softwares
 
 - KiCAD
-- FreeCAD
+- FreeCAD (optional, required to fabriacate 3D components).
 - python3.6+
 - GCC C++ Compiler
 - GCC toolchain for Arduino
@@ -14,8 +14,8 @@ You build this pipeline, you need various components.
 
 ## Electrical
 
-- PCB
-- Electrical Components
+- PCB (see CAD folder)
+- Electrical Components (see the BOM file in repository)
 
 ## Mechanical
 
